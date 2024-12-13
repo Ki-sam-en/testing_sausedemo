@@ -8,7 +8,7 @@
 
 файл с тестированием разлогирования: test_logout.py
 
-файл с фикстурами и надстройкой allure: constest.py
+файл с фикстурами и надстройкой allure: conftest.py
 
 #### скрипт для запуска тестов
 ![image](https://github.com/user-attachments/assets/0c3ba790-f78c-436b-b3a4-ba1a1369384d)
