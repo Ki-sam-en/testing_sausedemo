@@ -14,6 +14,7 @@
 ![image](https://github.com/user-attachments/assets/0c3ba790-f78c-436b-b3a4-ba1a1369384d)
 
 необходимые библиотеки подгружены локально в venv. скрипт для вызова теста с учетом выбора браузера: 
+
 "$ pytest -vs --browser chrome work_dir\test_dir\test_logout.py" или "$ pytest -vs --browser farefox work_dir\test_dir\test_logout.py"
 
 "$ pytest -vs --browser chrome work_dir\test_dir\test_auth.py" или "$ pytest -vs --browser farefox work_dir\test_dir\test_auth.py"
